@@ -1,6 +1,11 @@
-### Hi there 👋
+
+### I'm OceanWong
+
+- 🔭 I am currently working on DL
+- 🌱 I am currently learning algorithm...
 
 <!--
+### Hi there 👋
 **OceanWong1991/OceanWong1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
