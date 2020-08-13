@@ -1,8 +1,8 @@
 
-### I'm OceanWong
+### Hi there 👋
 
-- 🔭 I am currently working on DL
-- 🌱 I am currently learning algorithm...
+- 🔭 Coding...
+- 🌱 Think like robot...
 
 <!--
 ### Hi there 👋
