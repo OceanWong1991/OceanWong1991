@@ -3,7 +3,7 @@
 
 - 🔭 Coding...
 - 🌱 Think like robot...
-
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <!--
 ### Hi there 👋
 **OceanWong1991/OceanWong1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
