@@ -2,7 +2,7 @@
 ### Hi there! 👋 
 
 - 🔭 Coding...    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- 🌱 Think like a robot...
+- 🌱 Strive for innovation...
     
 <!--
 ### Hi there 👋
