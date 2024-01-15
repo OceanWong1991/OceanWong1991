@@ -2,8 +2,10 @@
 ### Hi there! 👋 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OceanWong1991&theme=github)
 
-- 🔭 Coding...    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- 🔭 Coding...    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🤔 Thinking ...
 - 🌱 Strive for innovation, commitment to excellent.
+
     
 <!--
 ### Hi there 👋
