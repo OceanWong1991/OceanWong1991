@@ -1,6 +1,6 @@
 
 ### Hi there! 👋 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OceanWong1991&theme=nord_bright)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OceanWong1991&theme=github)
 
 - 🔭 Coding...    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 - 🌱 Strive for innovation, commitment to excellent.
